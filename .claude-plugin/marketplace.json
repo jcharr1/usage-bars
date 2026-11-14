@@ -1,12 +1,12 @@
 {
-  "name": "pepperonas",
+  "name": "jcharr1",
   "owner": {
     "name": "Martin Pfeffer",
     "email": "martin.pfeffer@celox.io",
     "url": "https://celox.io"
   },
   "metadata": {
-    "description": "Claude Code mods by Martin Pfeffer (celox.io)"
+    "description": "Fork of pepperonas/usage-bars with the desktop app fix (pepperonas/usage-bars#1)"
   },
   "plugins": [
     {
@@ -14,11 +14,20 @@
       "source": "./",
       "description": "Your Claude Code 5-hour and 7-day usage limits as animated bars under the prompt: percent, reset countdown, pace mark, projection, per-answer delta, styles (Pac-Man, beer, tank, battery, hourglass)",
       "version": "0.5.0",
-      "author": { "name": "Martin Pfeffer", "url": "https://celox.io" },
-      "homepage": "https://github.com/pepperonas/usage-bars",
+      "author": {
+        "name": "Martin Pfeffer",
+        "url": "https://celox.io"
+      },
+      "homepage": "https://github.com/jcharr1/usage-bars",
       "license": "MIT",
       "category": "productivity",
-      "tags": ["mod", "usage", "rate-limits", "status", "ui"]
+      "tags": [
+        "mod",
+        "usage",
+        "rate-limits",
+        "status",
+        "ui"
+      ]
     }
   ]
 }
